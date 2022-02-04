@@ -20,7 +20,7 @@
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Collince-Okeyo&show_icons=true&theme=vue">
   </a>
   <a href="https://github.com/Collince-Okeyo/github-readme-stats">
-  <img height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collince-Okeyo&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collince-Okeyo&hide=c%23,powershell,java&title_color=2aa889&text_color=000&icon_color=2bbc8a&bg_color=fff&langs_count=8&layout=compact"/>
   </a>
 </p>
 
