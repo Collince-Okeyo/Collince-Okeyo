@@ -17,7 +17,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Collince-Okeyo&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collince-Okeyo&layout=compact" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collince-Okeyo&show_icons=true&locale=en&layout=compact" alt="ndiritumichael" /></p>
 </div>
 
 
