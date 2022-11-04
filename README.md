@@ -1,4 +1,4 @@
-### Collince Okeyo
+### [Collince Okeyo](https://collince-okeyo.github.io/)
 
 <p align="left">
   <a href="https://twitter.com/_collinceokeyo">
