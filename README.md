@@ -1,31 +1,139 @@
-### [Collince Okeyo](https://collince-okeyo.github.io/)
 
-<p align="left">
-  <a href="https://twitter.com/_collinceokeyo">
-    <img src="https://img.shields.io/twitter/follow/_collinceokeyo?_collinceokeyo?color=green&logo=twitter" alt="twitter" />
-  </a>
-  <a href="https://github.com/Collince-Okeyo">
-    <img src="https://komarev.com/ghpvc/?username=Collince-Okeyo" alt="page views" />
-  </a>
-  <a href="https://www.reddit.com/user/Collince_Okeyo">
-    <img alt="Reddit User Collince Okeyo" src="https://img.shields.io/reddit/user-karma/combined/Collince_Okeyo?label=Collince&logo=reddit">
-  </a>
-  <a href="https://github.com/Collince-Okeyo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Collince-Okeyo?color=green&logo=github">
-  </a>
-</p>
+<div align="center">
 
+# Hey there! I'm Collince Okeyo 👋
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Collince-Okeyo&count_private=true&include_all_commits=true" />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Collince-Okeyo&show_icons=true&locale=en&layout=compact" alt="collinceokeyo" /></p>
+### Full-Stack Software Engineer | Backend Developer | Tech Enthusiast
+
+Building scalable enterprise applications, modern web platforms, and impactful digital solutions.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://collince-okeyo.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Collince-Okeyo)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_collinceokeyo)
+[![Reddit](https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Collince_Okeyo)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Collince-Okeyo&style=flat-square&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/Collince-Okeyo?style=flat-square&logo=github&label=Followers)
+
 </div>
 
-  **Languages and Tools**  
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" > </code >
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" > </code >
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" > </code >
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" > </code >
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" > </code >
-  <code > <img height = "50" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" > </code >
+---
 
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Software Engineer** with 3+ years of experience designing, developing, and maintaining enterprise-grade applications.
+
+I specialize in building robust backend systems, RESTful APIs, database-driven applications, and modern responsive web interfaces.
+
+- 🔭 Building scalable web and mobile applications
+- 🌱 Exploring AI, cloud architecture, and distributed systems
+- 💻 Working with **Laravel, Yii2, React, Next.js, Node.js, and Django**
+- 🗄️ Experienced with SQL and NoSQL databases
+- ⚡ Passionate about clean code, performance, and system architecture
+- 🌍 Based in Nairobi, Kenya
+- 🚀 Interested in open-source projects and innovative tech solutions
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,dart,cs&perline=8" alt="Programming Languages" />
+</p>
+
+### 🚀 Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,php,dotnet&perline=6" alt="Backend Technologies" />
+</p>
+
+**Additional Frameworks:** Yii2, Django REST Framework, ASP.NET Core
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite&perline=7" alt="Frontend Technologies" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=5" alt="Mobile Technologies" />
+</p>
+
+### 🗄️ Databases & Caching
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,sqlite&perline=6" alt="Databases" />
+</p>
+
+**Also Experienced With:** Microsoft SQL Server
+
+### ☁️ DevOps, Cloud & Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,postman,vscode&perline=8" alt="DevOps and Developer Tools" />
+</p>
+
+### 🔌 APIs & Integrations
+
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Stripe](https://img.shields.io/badge/Payment_Integrations-635BFF?style=flat-square)
+![Firebase](https://img.shields.io/badge/FCM-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Collince-Okeyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collince-Okeyo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Collince-Okeyo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 PetConnect
+A two-sided marketplace connecting pet owners with trusted pet care service providers.
+
+**Tech Stack:** Flutter, Node.js, PostgreSQL, Redis, Docker
+
+### 🏠 NyumbaHub
+A rental marketplace simplifying property discovery and rental management.
+
+**Tech Stack:** Django REST Framework, Flutter, PostgreSQL
+
+### 📈 YT Analytica
+A YouTube analytics platform featuring channel insights and AI-powered sentiment analysis.
+
+**Tech Stack:** React, Tailwind CSS, YouTube Data API, AI/ML
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on innovative projects, contributing to open source, and connecting with fellow developers.
+
+- 🌐 Portfolio: [collince-okeyo.github.io](https://collince-okeyo.github.io/)
+- 💻 GitHub: [Collince-Okeyo](https://github.com/Collince-Okeyo)
+- 🐦 X: [@_collinceokeyo](https://twitter.com/_collinceokeyo)
+- 💬 Reddit: [Collince_Okeyo](https://www.reddit.com/user/Collince_Okeyo)
+
+---
+
+<div align="center">
+
+### 💡 "Build with purpose. Code with passion. Keep innovating."
+
+⭐ From [Collince Okeyo](https://github.com/Collince-Okeyo)
+
+</div>
