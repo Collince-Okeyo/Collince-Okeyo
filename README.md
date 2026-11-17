@@ -7,7 +7,7 @@
 
 Building scalable enterprise applications, modern web platforms, and impactful digital solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://collince-okeyo.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramg-com.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Collince-Okeyo)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_collinceokeyo)
 [![Reddit](https://img.shields.io/badge/Reddit-Profile-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Collince_Okeyo)
@@ -30,7 +30,6 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
 - 💻 Working with **Laravel, Yii2, React, Next.js, Node.js, and Django**
 - 🗄️ Experienced with SQL and NoSQL databases
 - ⚡ Passionate about clean code, performance, and system architecture
-- 🌍 Based in Nairobi, Kenya
 - 🚀 Interested in open-source projects and innovative tech solutions
 
 ---
@@ -48,8 +47,6 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,php,dotnet&perline=6" alt="Backend Technologies" />
 </p>
-
-**Additional Frameworks:** Yii2, Django REST Framework, ASP.NET Core
 
 ### 🎨 Frontend Development
 
@@ -69,8 +66,6 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,sqlite&perline=6" alt="Databases" />
 </p>
 
-**Also Experienced With:** Microsoft SQL Server
-
 ### ☁️ DevOps, Cloud & Developer Tools
 
 <p align="left">
@@ -82,7 +77,6 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Payment_Integrations-635BFF?style=flat-square)
-![Firebase](https://img.shields.io/badge/FCM-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C873A?style=flat-square)
 
 ---
@@ -91,49 +85,8 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Collince-Okeyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Collince-Okeyo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img width="70%" src="https://streak-stats.demolab.com?user=Collince-Okeyo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🐾 PetConnect
-A two-sided marketplace connecting pet owners with trusted pet care service providers.
-
-**Tech Stack:** Flutter, Node.js, PostgreSQL, Redis, Docker
-
-### 🏠 NyumbaHub
-A rental marketplace simplifying property discovery and rental management.
-
-**Tech Stack:** Django REST Framework, Flutter, PostgreSQL
-
-### 📈 YT Analytica
-A YouTube analytics platform featuring channel insights and AI-powered sentiment analysis.
-
-**Tech Stack:** React, Tailwind CSS, YouTube Data API, AI/ML
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, contributing to open source, and connecting with fellow developers.
-
-- 🌐 Portfolio: [collince-okeyo.github.io](https://collince-okeyo.github.io/)
-- 💻 GitHub: [Collince-Okeyo](https://github.com/Collince-Okeyo)
-- 🐦 X: [@_collinceokeyo](https://twitter.com/_collinceokeyo)
-- 💬 Reddit: [Collince_Okeyo](https://www.reddit.com/user/Collince_Okeyo)
-
----
-
-<div align="center">
-
-### 💡 "Build with purpose. Code with passion. Keep innovating."
-
-⭐ From [Collince Okeyo](https://github.com/Collince-Okeyo)
 
 </div>
