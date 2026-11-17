@@ -19,60 +19,53 @@ Building scalable enterprise applications, modern web platforms, and impactful d
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Full-Stack Software Engineer** with 3+ years of experience designing, developing, and maintaining enterprise-grade applications.
 
 I specialize in building robust backend systems, RESTful APIs, database-driven applications, and modern responsive web interfaces.
 
-- 🔭 Building scalable web and mobile applications
-- 🌱 Exploring AI, cloud architecture, and distributed systems
-- 💻 Working with **Laravel, Yii2, React, Next.js, Node.js, and Django**
-- 🗄️ Experienced with SQL and NoSQL databases
-- ⚡ Passionate about clean code, performance, and system architecture
-- 🚀 Interested in open-source projects and innovative tech solutions
-
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,kotlin,dart,cs&perline=8" alt="Programming Languages" />
 </p>
 
-### 🚀 Backend Development
+### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,php,dotnet&perline=6" alt="Backend Technologies" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite&perline=7" alt="Frontend Technologies" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase&perline=5" alt="Mobile Technologies" />
 </p>
 
-### 🗄️ Databases & Caching
+### Databases & Caching
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,sqlite&perline=6" alt="Databases" />
 </p>
 
-### ☁️ DevOps, Cloud & Developer Tools
+### DevOps, Cloud & Developer Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,linux,postman,vscode&perline=8" alt="DevOps and Developer Tools" />
 </p>
 
-### 🔌 APIs & Integrations
+### APIs & Integrations
 
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -81,7 +74,7 @@ I specialize in building robust backend systems, RESTful APIs, database-driven a
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
